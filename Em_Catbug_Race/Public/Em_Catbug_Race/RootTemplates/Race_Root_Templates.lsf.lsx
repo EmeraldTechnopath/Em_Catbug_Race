@@ -5,11 +5,11 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="0965cbca-c751-47f9-a136-d3b2c04d4912" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="75aaaecf-1aaf-4ffa-96d0-3db5f1cb5419" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Catbug" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
-					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="ParentTemplateId" type="FixedString" value="05047890-4138-40b5-9d8d-3ccb9d10e434" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="1c4a3645-17c8-90a3-115b-3af00eead9d6-_(Icon_Gnomes_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f054a818-31e6-4c26-abda-517cd3388e93" /> which models to load
 					<attribute id="Race" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> define race as Custom Race
 					<children>
@@ -25,11 +25,11 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="2631a5f9-29da-48bd-a0f3-8ad61f89c969" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="3bcaf88d-d9af-4429-bf73-450eca643d83" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Catbug" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
-					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1c665327-7311-4d0a-84b5-3377ade3ad44" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="b0971761-af1a-e52c-ffb2-2c0689f8ed96-_(Icon_Gnomes_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="15e95b02-7995-4386-9017-580ea6660f43" /> which models to load
 					<attribute id="Race" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> define race as Custom Race
 					<children>
@@ -49,12 +49,12 @@
 					<attribute id="Name" type="LSString" value="Elves_Female_Sub_Race_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="0965cbca-c751-47f9-a136-d3b2c04d4912" />
+					<attribute id="ParentTemplateId" type="FixedString" value="75aaaecf-1aaf-4ffa-96d0-3db5f1cb5419" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="a15db9de-13cb-480a-978e-b930e6393c75" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="4d66cbb8-05d8-807a-622c-55fbdf0719a9" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
 					<attribute id="Race" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335" /> define race as Custom Race
 					<children>
@@ -84,12 +84,12 @@
 					<attribute id="Name" type="LSString" value="Elves_Male_Sub_Race_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="2631a5f9-29da-48bd-a0f3-8ad61f89c969" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3bcaf88d-d9af-4429-bf73-450eca643d83" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
 					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="8aaa3419-a658-4749-8743-c05f8099520f" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="eabe1080-a24e-5aed-1a26-7594172bfefd" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
 					<attribute id="Race" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335" /> define race as Custom Race
 					<children>
