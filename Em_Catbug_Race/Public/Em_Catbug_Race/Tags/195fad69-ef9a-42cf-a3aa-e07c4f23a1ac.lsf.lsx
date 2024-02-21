@@ -8,7 +8,7 @@
 			<attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Custom_Sub_Race" />
-			<attribute id="UUID" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
+			<attribute id="UUID" type="guid" value="195fad69-ef9a-42cf-a3aa-e07c4f23a1ac" />
 			<children>
 				<node id="Categories">
 					<children>

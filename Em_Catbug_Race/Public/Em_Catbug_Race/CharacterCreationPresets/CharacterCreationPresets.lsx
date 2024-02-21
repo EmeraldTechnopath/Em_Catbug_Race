@@ -13,7 +13,7 @@
           <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/> base Custom Main race
           <attribute id="RootTemplate" type="guid" value="816f824c-ad7c-4e05-a84d-534c416c3390"/> roottemplates 
 					<attribute id="SubRaceUUID" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335"/>  your subrace uuid
-          <attribute id="UUID" type="guid" value="ebae82cc-9a62-4118-a503-26378e1a75c4"/> must be unique
+          <attribute id="UUID" type="guid" value="e8134f10-61ee-460b-9f17-08ad33184998"/> must be unique
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
         </node>
 				<node id="CharacterCreationPreset"> M
@@ -25,7 +25,7 @@
           <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
           <attribute id="RootTemplate" type="guid" value="6bf7512b-4c97-463e-b26d-63a6a78026e7"/>
 					<attribute id="SubRaceUUID" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335"/>
-          <attribute id="UUID" type="guid" value="b4d9113e-871a-4fc0-8e58-77b0c5b97432"/>
+          <attribute id="UUID" type="guid" value="f6c18343-8b5c-4135-96f6-0a9c6f73561b"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
       </children>

@@ -9,6 +9,17 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
+//toggle flight
+new entry "Catbug_Flight_Toggle"
+type "PassiveData"
+data "DisplayName" "h7b761987gad21g4d70gada3g70e4026cb547;2"
+data "Description" "h2f536021g8782g4e1cga216g94ca455f0199;3"
+data "Icon" "Spell_Transmutation_Fly"
+data "Properties" "IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
+data "StatsFunctorContext" "OnCreate"
+data "ToggleOnFunctors" "ApplyStatus(FLY,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLY)"
+
 <!--------------------- Custom Race Spells --------------------->
 
 new entry "Racial_Projectile_Fireball"
