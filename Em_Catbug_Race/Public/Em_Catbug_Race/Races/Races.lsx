@@ -11,9 +11,13 @@
             <attribute id="Name" type="FixedString" value="Catbug_MainRace" />       internal name for race
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
             <attribute id="ProgressionTableUUID" type="guid" value="f1c185fc-ce58-4a1d-a73f-af43c7470257" />    the level up stuff under the Progressions folder, diff from subrace
+            <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Dwarves"/>
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> Race UUID, keep this for adding hairs etc
                 <children>
+                        <node id="EyeColors"> Elf Green 1
+                            <attribute id="Object" type="guid" value="b1dd745e-77b8-49d4-835f-8ffdfa3ebb34" />
+                        </node>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
                         </node>

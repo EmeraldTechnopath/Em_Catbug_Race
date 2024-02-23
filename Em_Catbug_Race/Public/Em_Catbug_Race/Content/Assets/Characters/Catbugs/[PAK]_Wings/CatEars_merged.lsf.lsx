@@ -40,6 +40,16 @@
 					<!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
 					<children>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9f5f2247-0346-354d-3e0b-4bcf964eddad" />
+							<attribute id="ObjectID" type="FixedString" value="CBG_NKD_Ears_A.CBG_NKD_Ears_A.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="96f4b1b8-3603-3122-c91d-18fe0628396f" />
+							<attribute id="ObjectID" type="FixedString" value="CBG_NKD_Ears_A.CBG_NKD_Ears_A.1" />
+						</node>
 					</children>
 				</node>
 			</children>

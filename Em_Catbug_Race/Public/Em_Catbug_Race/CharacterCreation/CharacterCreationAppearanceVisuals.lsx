@@ -4,6 +4,27 @@
     <region id="CharacterCreationAppearanceVisuals">
         <node id="root">
             <children>
+
+            <!--Heads-->
+                <node id="CharacterCreationAppearanceVisual"> HFL_F_NKD_Head_F
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ed4f7dea-b908-4b3a-822d-306d7caf2da7"/>
+                    <attribute id="VisualResource" type="guid" value="9548dad0-a3f2-51d3-349d-193d27fa4bea"/>
+                </node>
+
+				 <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_F
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="51eea7aa-e31f-4cc8-997d-4a4b7d7d3b91"/>
+                    <attribute id="VisualResource" type="guid" value="48ac16c1-914e-7c24-b083-a7c90a735328"/>
+                </node>
             
             <!--Cat Ears-->				 
 				 <node id="CharacterCreationAppearanceVisual"> Female
@@ -16,13 +37,23 @@
                     <attribute id="VisualResource" type="guid" value="24af95ae-8a8b-45df-8169-313067db8d15"/>
                 </node>
 
-            <!--Wings-->				 
-				 <node id="CharacterCreationAppearanceVisual"> Female
+            <!--Wings-->
+                <node id="CharacterCreationAppearanceVisual"> Female None
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4cda9dbdg3f23g44f0gb1b0ga6c117a602de" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="432b7315-6d9e-4aea-8ba7-0040004f97c6"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+
+				 <node id="CharacterCreationAppearanceVisual"> Female Wings
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4cda9dbdg3f23g44f0gb1b0ga6c117a602de" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="d42ae028-83ec-43cc-bda2-457fdabff892"/>
                     <attribute id="VisualResource" type="guid" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1"/>
                 </node>
@@ -36,7 +67,7 @@
                     <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="470f2aee-bb23-4b94-8788-40b2f51843f6"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/> leaf
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -52,7 +83,7 @@
                     <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="d1c1bfb9-bd40-4a3b-b701-99979b01f085"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/> leaf
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
