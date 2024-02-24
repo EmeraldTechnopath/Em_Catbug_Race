@@ -4198,6 +4198,40 @@
 						</node>
 					</children>
 				</node>
+				<!--Catbug Male Body-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6533012 1.074437 0.09342916" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6528252 -0.003242193 -0.1673935" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="9b7be97b-9415-ba19-1bff-08dd0aa4a3fb" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="b2e4639c-9b10-4c73-b957-763208b9a0a3" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="CBG_M_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="26b5486d-fc27-592a-44f4-422eb7f0231e" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="f466b2e5-c817-480e-6b00-0494a7b080de" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Catbug_Race/Bodies/CBG_M_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Catbug_Race/Bodies/CBG_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1ee43dd1-d052-9be8-066b-9714f5519247" />
+							<attribute id="ObjectID" type="FixedString" value="CBG_M_NKD_Body_A.CBG_M_NKD_Body_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

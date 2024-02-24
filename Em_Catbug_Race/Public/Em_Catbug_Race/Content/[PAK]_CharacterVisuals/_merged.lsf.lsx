@@ -89,7 +89,7 @@
 				</node>
 				<node id="Resource"> Base Male
 					<attribute id="BaseVisual" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="c59f89aa-584f-615d-84d9-1d89e98c3d30" /> body model
+					<attribute id="BodySetVisual" type="FixedString" value="b2e4639c-9b10-4c73-b957-763208b9a0a3" /> body model
 					<attribute id="ID" type="FixedString" value="15e95b02-7995-4386-9017-580ea6660f43" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Catbug" />	localised name
@@ -130,11 +130,26 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="c1c97ff6-04b6-37c0-b855-681b18447fc4" />
+							<attribute id="VisualResource" type="FixedString" value="866de55c-e441-2861-22b6-f3dc3166203a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="VisualResource" type="FixedString" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="24af95ae-8a8b-45df-8169-313067db8d15" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Tail" />
+							<attribute id="VisualResource" type="FixedString" value="203a12ca-8956-4bf9-ab3f-800bf3d0fb30" />
 						</node>
 					</children>
 				</node>
@@ -171,7 +186,7 @@
 				</node>
 				<node id="Resource"> Subrace Male
 					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="c59f89aa-584f-615d-84d9-1d89e98c3d30" />
+					<attribute id="BodySetVisual" type="FixedString" value="b2e4639c-9b10-4c73-b957-763208b9a0a3" />
 					<attribute id="ID" type="FixedString" value="8aaa3419-a658-4749-8743-c05f8099520f" />
 					<attribute id="Name" type="LSString" value="Main_Male_Sub_Race_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
