@@ -1640,18 +1640,6 @@
                         </node>
                 </children>
         </node>
-        <node id="Race">
-            <attribute id="Description" type="TranslatedString" handle="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1" />   description sub race
-            <attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />   name subrace
-            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Catbug_SubRace" />       internal name for subrace
-            <attribute id="ParentGuid" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" />      subrace of Custom Race Main
-            <attribute id="ProgressionTableUUID" type="guid" value="72d845d3-f8ae-4061-98aa-4389e98f0f4c" />    the level up stuff under the Progressions folder, diff from main race
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
-            <attribute id="UUID" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335" /> Race UUID, keep this for adding hairs etc
-                <children>                 
-                </children>
-        </node>
       </children>
     </node>
   </region>

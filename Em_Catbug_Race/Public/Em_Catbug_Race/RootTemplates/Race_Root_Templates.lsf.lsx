@@ -56,7 +56,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f054a818-31e6-4c26-abda-517cd3388e93" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
-					<attribute id="Race" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -91,7 +91,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="15e95b02-7995-4386-9017-580ea6660f43" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
-					<attribute id="Race" type="guid" value="838e11e7-3e88-4608-b1b4-d0533d779335" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>

@@ -32,16 +32,6 @@
                   <attribute id="TableUUID" type="guid" value="f1c185fc-ce58-4a1d-a73f-af43c7470257" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="97745435-1096-4de3-81e8-6c1654e8e523" />  this one must be unique
           </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sub_Race_1" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="72d845d3-f8ae-4061-98aa-4389e98f0f4c" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                  <attribute id="UUID" type="guid" value="07f5c1fc-0f47-4516-b033-7811e471d615" />  this one must be unique
-          </node>
       </children>
     </node>
   </region>
