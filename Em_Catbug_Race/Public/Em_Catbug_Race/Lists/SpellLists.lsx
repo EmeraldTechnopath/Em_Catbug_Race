@@ -14,9 +14,9 @@
                     <attribute id="Spells" type="LSString" value="Racial_Projectile_Fireball"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b"/> the UUID, needs to be unique
                 </node>
-                <node id="SpellList">Spelllist just a modified Fireball
+                <node id="SpellList">Spelllist single spell
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Target_Fly"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
                     <attribute id="UUID" type="guid" value="103aeaf1-d0fe-4754-9863-7fcb4434125e"/> the UUID, needs to be unique
                 </node>
             </children>

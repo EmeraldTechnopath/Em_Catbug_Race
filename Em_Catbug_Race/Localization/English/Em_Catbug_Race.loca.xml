@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1">Born from the combination of a bug-person and a cat-person, you are one of the cutest species in Faerun.</content>
+	<content contentuid="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1">Born from a bug-person and a cat-person, you are one of the cutest species in Faerun.</content>
 	<content contentuid="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1">Catbug</content>
 	<content contentuid="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1">Custom Sub Race description.</content>
 	<content contentuid="h8b6b17e3g220bg4682g818bg45757c672e25" version="1">Custom Sub Race</content>
 
 	<content contentuid="h7b761987gad21g4d70gada3g70e4026cb547" version="1">Catbug Flight</content>
 
-	<content contentuid="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1">Cat Ears</content>
+	<content contentuid="hf9c68222g6d87g4e0cgb727g3a37c9436dd4" version="1">No Cat Ears</content>
+	<content contentuid="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1">Basic Cat Ears</content>
+
 	<content contentuid="h4cda9dbdg3f23g44f0gb1b0ga6c117a602de" version="1">Wings</content>
+
+	<content contentuid="hf5612874gec84g4446g99c2g7155b9286698" version="1">No Cat Tail</content>
+	<content contentuid="h70a31694gdbceg418fg9bc6gb63a3dfb7b2a" version="1">Basic Cat Tail</content>
+	<content contentuid="h0957542fg007cg4cffga81dg6655b2e1feb7" version="1">Fluffy Cat Tail</content>
 </contentList>

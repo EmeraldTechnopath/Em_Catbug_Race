@@ -26,8 +26,26 @@
                     <attribute id="VisualResource" type="guid" value="48ac16c1-914e-7c24-b083-a7c90a735328"/>
                 </node>
             
-            <!--Cat Ears-->				 
-				 <node id="CharacterCreationAppearanceVisual"> Female
+            <!--Cat Ears-->
+                <node id="CharacterCreationAppearanceVisual"> Male None
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9c68222g6d87g4e0cgb727g3a37c9436dd4" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="69ca569a-b7c1-4589-bac1-b853effb3c3c"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> Female None
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9c68222g6d87g4e0cgb727g3a37c9436dd4" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="cb0e7e66-70fe-4d72-843a-0e2ce9adf817"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>		 
+				<node id="CharacterCreationAppearanceVisual"> Female Basic
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
@@ -35,6 +53,44 @@
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
                     <attribute id="UUID" type="guid" value="4a4e51f3-6507-455a-b4bf-2d17f84ad0ef"/>
                     <attribute id="VisualResource" type="guid" value="24af95ae-8a8b-45df-8169-313067db8d15"/>
+                </node>
+
+            <!--Cat Tails-->
+                <node id="CharacterCreationAppearanceVisual"> Male None
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="09ee1127-f606-4259-b866-e1960ae8a675"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> Female None
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="22d30ae9-55a0-4e2f-9602-389b7bc1774c"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> Female Basic
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h70a31694gdbceg418fg9bc6gb63a3dfb7b2a" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="89c8c583-f6ca-40bc-bab4-80dadb4a1878"/>
+                    <attribute id="VisualResource" type="guid" value="026dcc27-6eff-4212-b781-2ceaf64aca51"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> Female Fluffy
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0957542fg007cg4cffga81dg6655b2e1feb7" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="aee43239-0775-4f9b-b831-214a309b2d87"/>
+                    <attribute id="VisualResource" type="guid" value="203a12ca-8956-4bf9-ab3f-800bf3d0fb30"/>
                 </node>
 
             <!--Wings-->
