@@ -6,7 +6,7 @@
 			<children>
 				<node id="Resource"> Base Female
 					<attribute id="BaseVisual" type="FixedString" value="cc86c035-ec2b-1ab3-4d8d-5d39092c908c" />
-					<attribute id="BodySetVisual" type="FixedString" value="15c6cbdb-a29e-f1d6-79f4-0f9b69384789" />
+					<attribute id="BodySetVisual" type="FixedString" value="aedf2835-fa87-4271-9204-faa6309ac961" />
 					<attribute id="ID" type="FixedString" value="f054a818-31e6-4c26-abda-517cd3388e93" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Catbug" />					
@@ -48,7 +48,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="9548dad0-a3f2-51d3-349d-193d27fa4bea" /> HFL_F_NKD_Head_F
+							<attribute id="VisualResource" type="FixedString" value="48ac16c1-914e-7c24-b083-a7c90a735328" /> GNO_F_NKD_Head_F
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />

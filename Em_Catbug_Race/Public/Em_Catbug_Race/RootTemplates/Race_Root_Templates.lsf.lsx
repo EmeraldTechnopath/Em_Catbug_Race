@@ -70,9 +70,6 @@
 						</node>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="195fad69-ef9a-42cf-a3aa-e07c4f23a1ac" /> Custom Sub Race tag
-								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -105,9 +102,6 @@
 						</node>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="195fad69-ef9a-42cf-a3aa-e07c4f23a1ac" /> Custom Sub Race tag
-								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
