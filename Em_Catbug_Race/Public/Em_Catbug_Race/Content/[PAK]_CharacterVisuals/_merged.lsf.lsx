@@ -33,7 +33,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="5be2f4a9-7f1b-673b-8d90-f10bf748215b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="73a0c9f9-e76c-4ec7-bff7-3d7f39be6430" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -42,6 +42,19 @@
 											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 							</children>
 						</node>
@@ -58,7 +71,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Horns" />
-							<attribute id="VisualResource" type="FixedString" value="24af95ae-8a8b-45df-8169-313067db8d15" />
+							<attribute id="VisualResource" type="FixedString" value="a4d41e9c-f9cc-4279-8d3b-ee0592af68f9" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -116,7 +129,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="5be2f4a9-7f1b-673b-8d90-f10bf748215b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="485f8b9c-058b-5140-fc29-6fec880975fa" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -125,6 +138,19 @@
 											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 							</children>
 						</node>
@@ -140,16 +166,21 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Horns" />
-							<attribute id="VisualResource" type="FixedString" value="24af95ae-8a8b-45df-8169-313067db8d15" />
+							<attribute id="VisualResource" type="FixedString" value="a4d41e9c-f9cc-4279-8d3b-ee0592af68f9" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
+							<attribute id="VisualResource" type="FixedString" value="1115d1f2-e8ec-cd5d-9763-715c98589dd0" /> Fence Board Shavings
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Tail" />
 							<attribute id="VisualResource" type="FixedString" value="203a12ca-8956-4bf9-ab3f-800bf3d0fb30" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="9d962f63-1072-8e85-25c4-199f37e67ccc" />
 						</node>
 					</children>
 				</node>
@@ -179,6 +210,19 @@
 											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 							</children>
 						</node>

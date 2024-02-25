@@ -15,8 +15,14 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> Race UUID, keep this for adding hairs etc
                 <children>
+                        <node id="EyeColors"> Dryad Green 1
+                            <attribute id="Object" type="guid" value="c69c28ce-6014-4a7f-8f43-72a3758822e3" />
+                        </node>
                         <node id="EyeColors"> Elf Green 1
                             <attribute id="Object" type="guid" value="b1dd745e-77b8-49d4-835f-8ffdfa3ebb34" />
+                        </node>
+                        <node id="EyeColors"> Elf Gold 2
+                            <attribute id="Object" type="guid" value="b195de3d-28e3-419e-b16b-96d4f8067ebe" />
                         </node>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
