@@ -73,6 +73,15 @@
                     <attribute id="UUID" type="guid" value="4a4e51f3-6507-455a-b4bf-2d17f84ad0ef"/>
                     <attribute id="VisualResource" type="guid" value="24af95ae-8a8b-45df-8169-313067db8d15"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual"> Female Fluffy
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="382057df-c2f4-44f7-8c33-f56ec8b20ea7"/>
+                    <attribute id="VisualResource" type="guid" value="a4d41e9c-f9cc-4279-8d3b-ee0592af68f9"/>
+                </node>
 
             <!--Cat Tails-->
                 <node id="CharacterCreationAppearanceVisual"> Male None
