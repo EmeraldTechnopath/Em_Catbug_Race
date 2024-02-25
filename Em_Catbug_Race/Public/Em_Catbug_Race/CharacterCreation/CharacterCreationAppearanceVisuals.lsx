@@ -26,7 +26,17 @@
                     <attribute id="VisualResource" type="guid" value="9548dad0-a3f2-51d3-349d-193d27fa4bea"/>
                 </node>
 
-				 <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_F
+                <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_A
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="bf9cecf2-e436-4f17-b8b2-6c0a378d187b"/>
+                    <attribute id="VisualResource" type="guid" value="cff538a6-f53c-7eae-880d-e7cbf5104445"/>
+                </node>
+
+				<node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_F
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb0bef20bg5b75g4858ga2d4g88ccb271a642" version="1"/>

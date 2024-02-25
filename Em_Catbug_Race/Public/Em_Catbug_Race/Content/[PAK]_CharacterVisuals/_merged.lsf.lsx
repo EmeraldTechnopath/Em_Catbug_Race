@@ -78,12 +78,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="dec25989-ed08-895e-4ae0-5c9b44352bf0" />
+							<attribute id="VisualResource" type="FixedString" value="c9f8b58b-662f-6380-5a1a-da537dad50cc" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
+							<attribute id="VisualResource" type="FixedString" value="c5994929-c597-1736-977e-13167c588107" />
 						</node>
 					</children>
 				</node>
