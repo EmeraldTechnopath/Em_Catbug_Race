@@ -7,8 +7,8 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Custom_Main_Race" />
-			<attribute id="UUID" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
+			<attribute id="Name" type="FixedString" value="CATBUG" />
+			<attribute id="UUID" type="guid" value="0bc86103-f61d-42e8-b595-7a6fd588e16d" />
 			<children>
 				<node id="Categories">
 					<children>

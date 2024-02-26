@@ -1,0 +1,13 @@
+{
+  "FileVersion": 1,
+  "Tags": [
+    {
+      "modGuids": ["c8d7fd4d-a572-439e-8332-c7d61bb52644"],
+      "Type": "Race",
+      "Tag": "CATBUG_0bc86103-f61d-42e8-b595-7a6fd588e16d",
+      "ReallyTag": "CATBUG_0bc86103-f61d-42e8-b595-7a6fd588e16d",
+      "TagsToExclude": ["Baldurian"],
+      "RaceMetaTags": ["Rare"]
+    }
+  ]
+}
