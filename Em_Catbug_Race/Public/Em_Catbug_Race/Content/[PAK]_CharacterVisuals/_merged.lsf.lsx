@@ -65,7 +65,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="Slot" type="FixedString" value="Beard" />
 							<attribute id="VisualResource" type="FixedString" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1" />
 						</node>
 						<node id="Slots">
