@@ -39,11 +39,21 @@
 				<node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_F
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h6f5419b9g741eg4d1cg974bgc7eca9eb1749" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17f5c032g3ef0g4b1cga149g786d909f286a" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="51eea7aa-e31f-4cc8-997d-4a4b7d7d3b91"/>
                     <attribute id="VisualResource" type="guid" value="48ac16c1-914e-7c24-b083-a7c90a735328"/>
+                </node>
+
+                <node id="CharacterCreationAppearanceVisual"> CBG_F_NKD_Head_B
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f5419b9g741eg4d1cg974bgc7eca9eb1749" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="097a1e8b-3f94-4f68-851d-73db74fe6924"/>
+                    <attribute id="VisualResource" type="guid" value="c1c9dd4c-9ea1-4feb-b1d9-a93e4976cbbb"/>
                 </node>
             
             <!--Cat Ears-->
