@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM MAIN RACE|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h85239746gc579g4952ga4f9gf742d0e2ef01" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hfe42d992gfdbdg41d9ga67dg62f83d84b9bd" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="CATBUG" />
 			<attribute id="UUID" type="guid" value="0bc86103-f61d-42e8-b595-7a6fd588e16d" />

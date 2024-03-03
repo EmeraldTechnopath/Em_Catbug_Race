@@ -61,7 +61,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="48ac16c1-914e-7c24-b083-a7c90a735328" /> GNO_F_NKD_Head_F
+							<attribute id="VisualResource" type="FixedString" value="c1c9dd4c-9ea1-4feb-b1d9-a93e4976cbbb" /> CBG_F_NKD_Head_B
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
