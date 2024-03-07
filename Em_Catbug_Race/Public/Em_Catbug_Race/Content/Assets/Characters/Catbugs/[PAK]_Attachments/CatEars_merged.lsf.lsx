@@ -52,7 +52,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Cat Fluffy
+				<node id="Resource"> Cat Fluffy F
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -97,6 +97,54 @@
 							<attribute id="LOD" type="uint8" value="0" /> Fur
 							<attribute id="MaterialID" type="FixedString" value="f5d4eb5d-0d21-48e2-a788-499593cb4895" />
 							<attribute id="ObjectID" type="FixedString" value="CBG_NKD_Ears_B.CBG_NKD_Ears_A.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Cat Fluffy M
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="51720cff-6543-7adc-b0de-3699ba1f3369" />
+					<!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="deb2d108-aec5-4e3d-bc92-aa47ac26d616" />
+					<!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="CBG_M_NKD_Ears_B" />
+					<!-- ^ Name of your GR2. -->
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<!-- ^ Change to false if not auto-snap. -->
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<!-- ^ Use from a scalp you like. -->
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<!-- ^ If the hair you're referencing uses physics, copy the SkeletonResource ID here. -->
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Horns" />
+					<!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Catbug_Race/CatEars/CBG_M_NKD_Ears_B.GR2" />
+					<!-- ^ Make sure this matches your folder structure. -->
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Catbug_Race/CatEars/CBG_M_NKD_Ears_B.Dummy_Root.0" />
+					<!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> Skin
+							<attribute id="MaterialID" type="FixedString" value="9f5f2247-0346-354d-3e0b-4bcf964eddad" />
+							<attribute id="ObjectID" type="FixedString" value="CBG_M_NKD_Ears_B.CBG_NKD_Ears_A.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> Fur
+							<attribute id="MaterialID" type="FixedString" value="f5d4eb5d-0d21-48e2-a788-499593cb4895" />
+							<attribute id="ObjectID" type="FixedString" value="CBG_M_NKD_Ears_B.CBG_NKD_Ears_A.1" />
 						</node>
 					</children>
 				</node>

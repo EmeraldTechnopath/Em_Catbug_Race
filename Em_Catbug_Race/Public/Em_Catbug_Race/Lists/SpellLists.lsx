@@ -4,10 +4,15 @@
     <region id="SpellLists">
         <node id="root">
             <children>               
-                <node id="SpellList">Spelllist single spell
+                <node id="SpellList">Spelllist single spell - Claws
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
                     <attribute id="Spells" type="LSString" value="Target_Claws"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="103aeaf1-d0fe-4754-9863-7fcb4434125e"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist single spell - Meow
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Distract_Catbug"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="aeaceee7-071c-4f01-8ff5-befe89853c73"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>

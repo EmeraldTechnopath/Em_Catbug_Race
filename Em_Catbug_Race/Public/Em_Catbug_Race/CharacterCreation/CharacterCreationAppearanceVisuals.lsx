@@ -36,6 +36,50 @@
                     <attribute id="VisualResource" type="guid" value="cff538a6-f53c-7eae-880d-e7cbf5104445"/>
                 </node>
 
+                <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_B
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="95614cf0-a842-5e2f-fa17-4337769567e7"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5c2b3cb5gdae7g43f4ga2f8g15aadf6d892e" version="3"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="40946553-358a-423c-8165-d48f4d41f322"/>
+                    <attribute id="VisualResource" type="guid" value="e1eba519-1f8f-9a0b-2985-a814c50d2e16"/>
+                </node>
+
+                <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_C
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="f959db91-6da4-191f-279f-02f8c04dae21"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h049b8dcfg309dg48c5gb915g04c2fbcbf38d" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="752cc990-7d49-4e59-9c6a-20df45a5213a"/>
+                    <attribute id="VisualResource" type="guid" value="f909f3a1-f21e-3170-93ec-29d027f54206"/>
+                </node>
+
+                <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_D
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="dda35628-4a93-2ac8-d667-20e8dcde3d16"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h83172468g4865g4f96ga5e5ga5d97922336a" version="3"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="4bf9157a-cf37-45f1-a54f-63809cdae7b8"/>
+                    <attribute id="VisualResource" type="guid" value="2810bca0-4e38-d080-acee-7b884fc98054"/>
+                </node>
+
+                <node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_E
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="b88cb5cb-4de2-cd95-471b-063374b03cd6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h14beca87g33d7g48bag9c8bg18a4aedbac8d" version="3"/>
+                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="d70680c0-4c30-47d6-ac54-f6d800788b7e"/>
+                    <attribute id="VisualResource" type="guid" value="eb53c2c5-8ae1-a49a-8295-02237c0b9c99"/>
+                </node>
+
 				<node id="CharacterCreationAppearanceVisual"> GNO_F_NKD_Head_F
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -82,7 +126,7 @@
                     <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
                     <attribute id="UUID" type="guid" value="44dc89f1-2ce6-45ba-aa4a-5c6bd4b0d7b2"/>
-                    <attribute id="VisualResource" type="guid" value="a4d41e9c-f9cc-4279-8d3b-ee0592af68f9"/>
+                    <attribute id="VisualResource" type="guid" value="deb2d108-aec5-4e3d-bc92-aa47ac26d616"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> Female None
                     <attribute id="BodyShape" type="uint8" value="0"/>

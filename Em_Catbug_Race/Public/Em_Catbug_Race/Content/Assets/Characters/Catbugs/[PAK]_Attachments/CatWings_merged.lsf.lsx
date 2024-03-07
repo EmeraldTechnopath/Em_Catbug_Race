@@ -4469,10 +4469,10 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="6f0b39af-2547-4d53-947a-3f780c7a651e" />
+							<attribute id="Object" type="FixedString" value="76a4272b-b9ac-4141-ba05-329014797584" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="d9100421-a838-4de2-b1eb-2b868d264de9" />
+							<attribute id="Object" type="FixedString" value="0bfdf9a0-94ad-4579-92a5-ec51ebfc0e88" />
 						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
@@ -4513,10 +4513,10 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="6f0b39af-2547-4d53-947a-3f780c7a651e" />
+							<attribute id="Object" type="FixedString" value="76a4272b-b9ac-4141-ba05-329014797584" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="d9100421-a838-4de2-b1eb-2b868d264de9" />
+							<attribute id="Object" type="FixedString" value="0bfdf9a0-94ad-4579-92a5-ec51ebfc0e88" />
 						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />

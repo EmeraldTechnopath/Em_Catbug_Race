@@ -14,7 +14,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="6f0b39af-2547-4d53-947a-3f780c7a651e" />
+					<attribute id="ID" type="FixedString" value="76a4272b-b9ac-4141-ba05-329014797584" />
 					<attribute id="Name" type="LSString" value="FRY_F_Wings_Base" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277384" />
@@ -603,7 +603,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="d9100421-a838-4de2-b1eb-2b868d264de9" />
+					<attribute id="ID" type="FixedString" value="0bfdf9a0-94ad-4579-92a5-ec51ebfc0e88" />
 					<attribute id="Name" type="LSString" value="FRY_M_Wings_Base" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
