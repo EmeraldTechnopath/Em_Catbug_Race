@@ -6,7 +6,7 @@
             <children>               
                 <node id="SpellList">Spelllist single spell - Claws
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Target_Claws"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Catbug_Target_Claws"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="103aeaf1-d0fe-4754-9863-7fcb4434125e"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">Spelllist single spell - Meow
