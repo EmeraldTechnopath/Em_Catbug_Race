@@ -7,3 +7,7 @@ To-do:
 -Get multi-attack working
 
 -Fix basic cat tail
+
+-Catbug hireling
+
+-Catbug guardian
