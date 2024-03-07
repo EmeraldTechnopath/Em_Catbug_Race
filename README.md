@@ -8,6 +8,8 @@
 
 -Fix basic cat tail
 
+-Male heads
+
 -Catbug hireling
 
 -Catbug guardian
