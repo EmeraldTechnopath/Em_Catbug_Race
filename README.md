@@ -4,7 +4,7 @@ To-do:
 
 -Find a good material for wings
 
--Get multi-attack working
+-Get multi-attack working (or not?)
 
 -Fix basic cat tail
 
