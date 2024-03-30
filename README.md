@@ -17,3 +17,5 @@
 -Fix basic cat tail and ears
 
 -Catbug hireling
+
+-Custom head icon
