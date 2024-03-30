@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CompanionPresets">
+    <node id="root">
+      <children>
+          <!--F Guardian-->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="HFL_F_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="HFL_F_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="HFL_F_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="f9a96ba1-5748-487f-8fb1-5456e1f1efa4"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="fbd9af70-1ac0-4536-af92-7ddfc129726c"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
+          <!--M Guardian-->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="0"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="HFL_M_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="HFL_M_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="HFL_M_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="0b5ad08e-691d-493b-b9ba-52b3a16d3294"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="f3ff0a86-cce3-48fa-95d0-332bc23de62f"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
+      </children>
+    </node>
+  </region>
+</save>

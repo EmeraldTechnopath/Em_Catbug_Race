@@ -53,6 +53,22 @@
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
@@ -145,11 +161,27 @@
 							<children>
 							<!--Eyes-->
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_B.GNO_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_C.GNO_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_D.GNO_M_NKD_Head_D_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_F.GNO_M_NKD_Head_F_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 							</children>
@@ -221,6 +253,22 @@
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
@@ -241,7 +289,6 @@
 							<children>
 								<node id="MaterialPresets">
 									<children>
-										
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
@@ -255,6 +302,187 @@
 											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
 										</node>							
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_B.GNO_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_C.GNO_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_D.GNO_M_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_F.GNO_M_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Daisy Female
+					<attribute id="BaseVisual" type="FixedString" value="cc86c035-ec2b-1ab3-4d8d-5d39092c908c" />
+					<attribute id="BodySetVisual" type="FixedString" value="aedf2835-fa87-4271-9204-faa6309ac961" />
+					<attribute id="ID" type="FixedString" value="bf6bd0d5-3746-45be-844e-8fecb4d2d006" />
+					<attribute id="Name" type="LSString" value="Main_Female_Sub_Race_Daisy" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" /> <!--Skin color-->
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e556ac38-d163-329f-a68b-9f5dea6d41b0" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="73a0c9f9-e76c-4ec7-bff7-3d7f39be6430" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" /> <!--Hair color-->
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Daisy Male
+					<attribute id="BaseVisual" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" />
+					<attribute id="BodySetVisual" type="FixedString" value="b2e4639c-9b10-4c73-b957-763208b9a0a3" />
+					<attribute id="ID" type="FixedString" value="d0495b2f-ed86-4ac5-bf35-54884c8eb6ff" />
+					<attribute id="Name" type="LSString" value="Main_Male_Sub_Race_Daisy" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" /> <!--Skin color-->
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e556ac38-d163-329f-a68b-9f5dea6d41b0" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="485f8b9c-058b-5140-fc29-6fec880975fa" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" /> <!--Hair color-->
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+							<!--Eyes-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_B.GNO_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_C.GNO_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_D.GNO_M_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_F.GNO_M_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="27620db4-6581-8b63-e2b5-b37862aba7d0" />
 								</node>
 							</children>
 						</node>
