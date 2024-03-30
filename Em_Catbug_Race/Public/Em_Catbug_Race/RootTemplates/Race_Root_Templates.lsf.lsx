@@ -18,6 +18,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="0bc86103-f61d-42e8-b595-7a6fd588e16d" /> Custom Race tag
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="50e7beca-4e90-43cd-b7c5-c235e236077f" /> Shorties tag
+								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -37,6 +40,9 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="0bc86103-f61d-42e8-b595-7a6fd588e16d" /> Custom Race tag
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="50e7beca-4e90-43cd-b7c5-c235e236077f" /> Shorties tag
 								</node>
 							</children>
 						</node>
