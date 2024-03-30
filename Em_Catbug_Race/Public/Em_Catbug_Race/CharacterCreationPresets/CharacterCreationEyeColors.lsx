@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="CharacterCreationEyeColor">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h136b273fg2584g45b1g8989g4636a07367b4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc679f9a8ga363g4ea7gac68g4c2716a1ba3e" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="73a0c9f9-e76c-4ec7-bff7-3d7f39be6430"/>
 					<!-- ^ This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Eye Color Presets -->
                     <attribute id="Name" type="FixedString" value="Em_Dryad_Eyes_Green_1"/>
@@ -32,7 +32,7 @@
                     <attribute id="UUID" type="guid" value="ebe463ea-5feb-40df-84d2-0d692a71b2a8"/>
                 </node>
                 <node id="CharacterCreationEyeColor">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hcf3ff8cfg761bg4789gae52gbb5dfe3e11bd" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h616986d7ga850g4665ga111g863f69ee679f" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="6166837c-a3f6-402b-b8e7-f15685797e70"/>
 					<!-- ^ This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Eye Color Presets -->
                     <attribute id="Name" type="FixedString" value="Em_Dryad_Eyes_Orange_1"/>
@@ -41,7 +41,7 @@
                     <attribute id="UUID" type="guid" value="88432be7-f217-4a93-b3d4-988baf5abcc9"/>
                 </node>
                 <node id="CharacterCreationEyeColor">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf3a5ecc0gf573g48edga0e4g4f02f66c044b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf9a5cf5dgdb47g48c5ga341gdec4bd69f4e2" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="863e225b-456e-4985-9c70-3c0be99e61c6"/>
 					<!-- ^ This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Eye Color Presets -->
                     <attribute id="Name" type="FixedString" value="Em_Dryad_Eyes_Blue_1"/>

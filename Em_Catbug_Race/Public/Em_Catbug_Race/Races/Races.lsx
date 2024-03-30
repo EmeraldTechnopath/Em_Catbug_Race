@@ -15,57 +15,41 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930" /> Race UUID, keep this for adding hairs etc
                 <children>
+                    <!--Eye Colors-->
                         <node id="EyeColors"> Dryad Green 1
                             <attribute id="Object" type="guid" value="c69c28ce-6014-4a7f-8f43-72a3758822e3" />
                         </node>
-                        <node id="EyeColors"> Elf Green 1
-                            <attribute id="Object" type="guid" value="b1dd745e-77b8-49d4-835f-8ffdfa3ebb34" />
+                        <node id="EyeColors"> Dryad Orange 1
+                            <attribute id="Object" type="guid" value="88432be7-f217-4a93-b3d4-988baf5abcc9" />
+                        </node>
+                        <node id="EyeColors"> Dryad Blue 1
+                            <attribute id="Object" type="guid" value="750e101b-741d-45bc-9099-0a58b8af9983" />
+                        </node>
+                        <node id="EyeColors"> Elf Gold 1
+                            <attribute id="Object" type="guid" value="421b5ee1-514b-4353-8ad8-ecd04cce718b" />
                         </node>
                         <node id="EyeColors"> Elf Gold 2
                             <attribute id="Object" type="guid" value="b195de3d-28e3-419e-b16b-96d4f8067ebe" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
+                        <node id="EyeColors"> Elf Gold 3
+                            <attribute id="Object" type="guid" value="68b1643a-ab63-4622-8f94-2b1fc7ebc69a" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="c55b75c5-cc13-4797-9758-7979a21bf9d0" />
+                        <node id="EyeColors"> Elf Green 1
+                            <attribute id="Object" type="guid" value="b1dd745e-77b8-49d4-835f-8ffdfa3ebb34" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="5e20ef7e-4f8b-4cd7-964d-9f68bb2ac51d" />
+                        <node id="EyeColors"> Elf Green 2
+                            <attribute id="Object" type="guid" value="6e50f820-c137-4f7b-8ef7-f03fd56a53ee" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="79b4e8e8-eea4-4689-b42c-1085d2a67ac3" />
+                        <node id="EyeColors"> Elf Blue 1
+                            <attribute id="Object" type="guid" value="1333eae2-9685-449b-8c03-821408f94d45" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="bf8189c5-d057-42e7-aae8-849628b83689" />
+                        <node id="EyeColors"> Elf Blue 2
+                            <attribute id="Object" type="guid" value="8f93c7cb-0bca-446a-a7d2-ed70f6c7e64c" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="76658eb0-bea1-40ce-98eb-479cfdd2f063" />
+                        <node id="EyeColors"> Elf Blue 3
+                            <attribute id="Object" type="guid" value="5c6fb833-e092-4309-82b3-f05709ae01ce" />
                         </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="6a0d0958-d421-41d9-bc2b-2c4c96028b3b" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="2fda7eda-6a29-4f63-98e2-ff09695d2e53" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="bbdef785-d8de-4813-b8e9-83d1ceee1366" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="7fb2f5fa-216d-449e-adf7-eb11f847fa7c" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="9659f54a-8cfb-42b7-b93d-286c023b6f68" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="d67d88cd-6a1b-4a1a-b1e8-f5c77f551611" />
-                        </node>
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="d094b941-10b8-4815-b7e4-4e0999dcafab" />
-                        </node>
+                    <!--Hair Colors-->
                         <node id="HairColors">
                             <attribute id="Object" type="guid" value="0206c920-e750-4dfb-9760-8376a31b231d" />
                         </node>

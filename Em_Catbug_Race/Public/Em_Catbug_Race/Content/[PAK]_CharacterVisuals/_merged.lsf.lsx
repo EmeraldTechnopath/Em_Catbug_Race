@@ -373,19 +373,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" /> <!--Skin color-->
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e556ac38-d163-329f-a68b-9f5dea6d41b0" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a1e94908-bf85-7e28-3696-85e254349d01" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="73a0c9f9-e76c-4ec7-bff7-3d7f39be6430" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="8d59a076-95d2-2896-7a5a-9247b5e8149e" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" /> <!--Hair color-->
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" /> <!--Makeup-->
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d8dc56bc-5510-70e8-cc4d-1f0a53c49fea" />
 										</node>
 									</children>
 								</node>
@@ -420,6 +426,46 @@
 								</node>
 							</children>
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="2810bca0-4e38-d080-acee-7b884fc98054" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="a4d41e9c-f9cc-4279-8d3b-ee0592af68f9" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="5e4098da-f952-edc4-b1f2-71fdc1f805eb" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Tail" />
+							<attribute id="VisualResource" type="FixedString" value="203a12ca-8956-4bf9-ab3f-800bf3d0fb30" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c9f8b58b-662f-6380-5a1a-da537dad50cc" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c5994929-c597-1736-977e-13167c588107" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Daisy Male
@@ -439,19 +485,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" /> <!--Skin color-->
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e556ac38-d163-329f-a68b-9f5dea6d41b0" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a1e94908-bf85-7e28-3696-85e254349d01" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" /> <!--Eye color-->
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="485f8b9c-058b-5140-fc29-6fec880975fa" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="8d59a076-95d2-2896-7a5a-9247b5e8149e" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" /> <!--Hair color-->
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" /> <!--Makeup-->
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d8dc56bc-5510-70e8-cc4d-1f0a53c49fea" />
 										</node>
 									</children>
 								</node>
@@ -487,24 +539,32 @@
 							</children>
 						</node>
 						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+							<attribute id="VisualResource" type="FixedString" value="e772054a-2b06-c65f-1e7c-c3cdb06fc309" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="deb2d108-aec5-4e3d-bc92-aa47ac26d616" />
+						</node>
+						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+							<attribute id="VisualResource" type="FixedString" value="19537a69-7e8d-7fa0-d768-afb9a0992007" /> Sorcha Curls
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Tail" />
+							<attribute id="VisualResource" type="FixedString" value="203a12ca-8956-4bf9-ab3f-800bf3d0fb30" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+							<attribute id="VisualResource" type="FixedString" value="9d962f63-1072-8e85-25c4-199f37e67ccc" />
 						</node>
 					</children>
 				</node>

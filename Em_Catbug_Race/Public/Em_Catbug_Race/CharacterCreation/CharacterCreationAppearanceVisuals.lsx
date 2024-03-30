@@ -246,15 +246,6 @@
                 </node>
 
             <!--Wings-->
-                <node id="CharacterCreationAppearanceVisual"> Female None
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4cda9dbdg3f23g44f0gb1b0ga6c117a602de" version="1"/>
-                    <attribute id="RaceUUID" type="guid" value="cd852310-e3e0-4045-82a9-069bff5e1930"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="432b7315-6d9e-4aea-8ba7-0040004f97c6"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                </node>
 
                 <node id="CharacterCreationAppearanceVisual"> Male Wings
                     <attribute id="BodyShape" type="uint8" value="0"/>
@@ -276,7 +267,7 @@
                     <attribute id="VisualResource" type="guid" value="e14dca19-73ca-4ac4-a87f-f21473f38ab1"/>
                 </node>
 
-                <node id="CharacterCreationAppearanceVisual"> Female Wings B
+                <!-- <node id="CharacterCreationAppearanceVisual"> Female Wings B
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4cda9dbdg3f23g44f0gb1b0ga6c117a602de" version="1"/>
@@ -284,7 +275,7 @@
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="63818d3c-0a19-4d6b-ae0d-bb46b176dbd5"/>
                     <attribute id="VisualResource" type="guid" value="11d6cb51-39af-41e5-bf33-ba1a56bd4171"/>
-                </node>
+                </node> -->
 
             <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> M
