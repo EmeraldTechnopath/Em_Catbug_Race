@@ -2,14 +2,18 @@
 
 ~~-Fix wings, make them rigged properly and actually flap~~
 
--Find a good material for wings
+~~-Find a good material for wings~~
 
--Get multi-attack working (or not?)
+~~-Male heads~~
 
--Fix basic cat tail
+~~-Catbug guardian~~
 
--Male heads
+-Eye colors
+
+# Later:
+
+-Get multi-attack working
+
+-Fix basic cat tail and ears
 
 -Catbug hireling
-
--Catbug guardian
