@@ -8,7 +8,7 @@
 
 ~~-Catbug guardian~~
 
--Eye colors
+~~-Eye colors~~
 
 # Later:
 
@@ -17,3 +17,5 @@
 -Fix basic cat tail and ears
 
 -Catbug hireling
+
+-Custom head icon
