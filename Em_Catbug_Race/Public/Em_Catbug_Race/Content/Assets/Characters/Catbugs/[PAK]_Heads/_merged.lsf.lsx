@@ -4250,6 +4250,135 @@
 						</node>
 					</children>
 				</node>
+
+				<!--Catbug Male Head A-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="69ba62e9-ba88-7322-4333-7d94ae3b3aa5" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1416162 1.366268 0.1064755" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1416149 1.03006 -0.1543062" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="48c0b122-cf18-47b2-af43-9ae1193ab4be" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="CBG_M_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="e621eba5-22a6-a5ac-0576-33be51e19a60" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Catbug_Race/Heads/CBG_M_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Catbug_Race/Heads/CBG_M_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692752" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dcf8dd35-bf17-e70c-b763-20c599956b44" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="102607fd-b9aa-e993-9066-7d77f8be5451" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7a6530f2-a097-70a2-e8ca-390cfa549db6" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eec2c59b-f568-8b75-2ab0-ebd5f84a8285" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7a6530f2-a097-70a2-e8ca-390cfa549db6" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="43006aea-b50a-38de-f1fe-af21f67e3179" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="43006aea-b50a-38de-f1fe-af21f67e3179" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="61736a8e-8ea7-0536-84e8-29443caec828" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="61736a8e-8ea7-0536-84e8-29443caec828" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="61736a8e-8ea7-0536-84e8-29443caec828" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="61736a8e-8ea7-0536-84e8-29443caec828" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="4e07b830-176f-439e-35f4-a12aaabf8c8f" />
+							<attribute id="ObjectID" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

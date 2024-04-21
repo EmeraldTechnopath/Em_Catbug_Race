@@ -1205,27 +1205,6 @@
                         <node id="MakeupColors">
                             <attribute id="Object" type="guid" value="e2a2383e-4c83-45f4-9fd0-4cb215897c35" />
                         </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="5fa0fbde-9f00-42f6-9804-beff86291f4b" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6a857902-12d6-4e16-8508-dccb57b534d6" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f91ca476-8a80-4461-86a1-7ede84d7cfec" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="de606cab-c9e8-453f-8a4f-724e0568bc36" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="246d9b49-1654-4ea3-b3d0-4b61edd7a29b" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
-                        </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e" />
                         </node>
